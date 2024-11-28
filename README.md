@@ -11,16 +11,15 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I'm Abdul Rafeh, a software engineer based in Islamabad Pakistan, React Native Developer with 3.5 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
+I'm Zain Ul Haq Chohan, a software engineer based in Islamabad Pakistan, React Native and React JS Developer with 3.5 years of experience in designing and developing user interfaces, testing, debugging, and eCommerce technologies. Proven ability in optimizing app functionality that improve data retrieval and workflow efficiencies using modern backends.
 
 Graduated from [Foundation University Islamabad](https://www.fui.edu.pk/) in Computer Sciences, I currently serve as a React Native Developer at [Xiots](https://xiots.io/), where I engage in a broad range of intriguing and purposeful projects every day.
 
 ### Connect with me:
 
-[<img align="left" alt="abdulrafeh857 | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="abdulrafeh857 | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
-[<img align="left" alt="rafeh.abdul | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
-[<img align="left" alt="abdul.rafeh.857 | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-512.png" />][facebook]
+[<img align="left" alt="zainchohan | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="zain.chohan | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+[<img align="left" alt="zain.haq2 | Facebook" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-512.png" />][facebook]
 
 <br />
 
@@ -65,13 +64,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 
 # 📫 How to reach me: 
-abdulrafeh857@gmail.com or +92-318-5335842
+zain.chohan10@gmail.com or +92-333-5693111
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdulrafeh857&theme=light&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zainchohan6198&theme=light&show_icons=true&hide_border=true&count_private=true" />
 
-[twitter]: https://twitter.com/abdulrafeh857
-[facebook]: https://www.facebook.com/abdul.rafeh.857/
-[instagram]: https://instagram.com/rafeh.abdul
-[linkedin]: https://www.linkedin.com/in/abdulrafeh857
+[facebook]: https://www.facebook.com/zain.haq2/
+[instagram]: https://instagram.com/zain.chohan
+[linkedin]: https://www.linkedin.com/in/zainchohan
